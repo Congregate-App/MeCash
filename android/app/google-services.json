@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "793033065208",
+    "project_id": "fintrack-82c77",
+    "storage_bucket": "fintrack-82c77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793033065208:android:89a4082e7e80e615b6310d",
+        "android_client_info": {
+          "package_name": "com.mecash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793033065208-8ptipocc5o5sdad1kjaru5fiom76egmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mecash",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "793033065208-o2tquu8632rr4k7qfr4g0cn0uooqr6ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5Mq9iQ6JPS4pxN9aQAy-6cX8KluUoqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793033065208-o2tquu8632rr4k7qfr4g0cn0uooqr6ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
